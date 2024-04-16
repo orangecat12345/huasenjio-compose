@@ -143,7 +143,7 @@ const STATUS = {
 // 默认管理员
 const ADMIN = {
   id: 'admin@qq.com',
-  password: '12345',
+  password: 'mxy12345',
 };
 
 /**
