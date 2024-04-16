@@ -71,10 +71,10 @@ services:
       - 80:80
 
       # 详细语法
-      # - target: 80 # 容器内
-      #   published: 80 # 容器外
-      #   protocol: tcp
-      #   mode: host
+       - target: 80 # 容器内
+         published: 10089 # 容器外
+         protocol: tcp
+         mode: host
     environment:
       - TZ=Asia/Shanghai
     networks:
