@@ -65,8 +65,8 @@ const QQ_MAIL = {
   port: 465,
   secure: true,
   auth: {
-    user: 'QQ邮箱', //  发送方邮箱地址
-    pass: 'QQ邮箱 mtp', //  自己申请的mtp的通行码
+    user: '3597695495@qq.com', //  发送方邮箱地址
+    pass: 'wwuftfhoowvocjfe', //  自己申请的mtp的通行码
   },
 };
 
